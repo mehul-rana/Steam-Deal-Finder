@@ -1,0 +1,1 @@
+This is a simple project I created to help strengthen my knowledge of API's. This app lets you know if the game you type in is on sale on Steam and provide all relevant information.
